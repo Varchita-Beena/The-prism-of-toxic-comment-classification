@@ -11,3 +11,6 @@ Genism</br>
 Kaggle</br>
 Seaborn</br>
 Tensorflow-text</br>
+
+
+You can find a comprehensive overview of the problem definition, methodology, and all related files for our toxic comment classification project at the following link: [The Prism of Toxic Comment Classification](https://github.com/Varchita-Beena/The-prism-of-toxic-comment-classification/blob/main/The%20prism%20of%20toxic%20comment%20classification.pdf).
